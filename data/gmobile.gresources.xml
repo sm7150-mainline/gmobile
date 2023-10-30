@@ -8,5 +8,7 @@
     <file preprocess="json-stripblanks">devices/display-panels/purism,librem5.json</file>
     <file preprocess="json-stripblanks">devices/display-panels/xiaomi,beryllium.json</file>
     <file preprocess="json-stripblanks">devices/display-panels/xiaomi,dandelion.json</file>
+    <file preprocess="json-stripblanks">devices/display-panels/xiaomi,davinci.json</file>
+    <file preprocess="json-stripblanks">devices/display-panels/xiaomi,surya.json</file>
   </gresource>
 </gresources>

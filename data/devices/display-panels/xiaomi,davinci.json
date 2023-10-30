@@ -1,0 +1,10 @@
+{
+  "name": "Xiaomi Mi 9t",
+  "x-res": 1080,
+  "y-res": 2340,
+  "border-radius": 84,
+  "width": 68,
+  "height": 147,
+  "cutouts" : [
+  ]
+}
