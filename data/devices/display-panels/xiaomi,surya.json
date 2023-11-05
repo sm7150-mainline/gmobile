@@ -8,9 +8,13 @@
   "cutouts" : [
     {
       "name": "notch",
-      "path": "M 336 0
-               A 24 24 0 0 0 384 0
-	       Z"
+      "path": "M 504 0
+               H 504
+               V 91
+               H 576
+               V 0
+               H 504
+               Z"
     }
   ]
 }
